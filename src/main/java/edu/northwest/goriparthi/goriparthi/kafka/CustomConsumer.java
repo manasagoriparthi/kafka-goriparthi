@@ -1,4 +1,4 @@
-package edu.nwmissouri.isl.professorcase.kafka;
+package edu.nwmissouri.isl.goriparthi.kafka;
 
 import java.io.File;
 import java.io.FileInputStream;
